@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GCalderoni GiGi for short! :)
+- 👋 Hi, I’m @GCalderoni, GiGi for short! :)
 - 👀 I’m interested in becoming a software developer!!
 - 🌱 I’m currently learning code. I've begun the IBM Full Stack Cloud Developer Professional Certification course! I'll be learning HTML, CSS, JavaScript, SQL, DJANGO, Python, Node.js and React.
 - 💞️ I’m looking to collaborate on anything! Really... Just about anyway. :)
